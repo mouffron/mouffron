@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hard Skill
+  •	SQL
+  •	HTML/CSS
+  •	Bootstrap
+  •	Python
+  •	Java
+  •	NodeJS/Express
+  •	PHP/Symfony
 
-<!--
-**mouffron/mouffron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soft Skill
+  •	Calme
+  •	Patient
+  •	Attentif
+  •	Flexible
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Projet 
+
+  ## Projet Symfony 
+  
+  L’objectif de ce projet était de crée un blog sur le sujet de notre choix en utilisant PHP avec le Framework Symfony. Pour le blog il fallait développer la possibilité de se s’inscrire et de se connecter, de pouvoir lire des articles et de pouvoir créer des articles dans la zonne administrateur du site.
+
+  
+
+
