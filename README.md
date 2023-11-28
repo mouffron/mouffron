@@ -31,7 +31,7 @@
   ### Projet d'étude
 
   L’objectif de cette SAE était de développer un logiciel web de mise en évidence de donné relative à la transformation de matière plastique en relation avec une base de données. Pour réaliser ce logiciel on a par groupe de 3 utiliser nodeJS avec le framework express. Ce logiciel permettra à l’entreprise Legrand de notamment réduire les déchets plastiques qu’ils produisent.
-![image](https://github.com/mouffron/mouffron/assets/104823184/c1f400c5-10a3-4afd-ad06-220d2acd673a)
+
 
 
 
