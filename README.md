@@ -24,7 +24,9 @@
 
   ### Projet de Stage
 
-  L'objectif de mon projet de stage de 2ème année était de mettre à jour un logiciel afin d'étendre son utilisation à plus de personne au sein de l'entreprise. Le logiciel était déceloppé en JavaScript avec les Framework  Nuxt JS, Node JS / Express, Vue JS / Vuetify et MySQL 
+  L'objectif de mon projet de stage de 2ème année était de mettre à jour un logiciel afin d'étendre son utilisation à plus de personne au sein de l'entreprise. Le logiciel était déceloppé en JavaScript avec les Framework  Nuxt JS, Node JS / Express, Vue JS / Vuetify et MySQL
+  ![image](https://github.com/mouffron/mouffron/assets/104823184/e3ff868d-dd95-4729-83e5-7ecee530b2a4)
+
 
   ### Projet d'étude
 
