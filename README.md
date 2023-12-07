@@ -1,5 +1,5 @@
 ## Présentation
-Je suis un développeur polyvalent avec des compétences aussi bien en front-end qu'en back-end. Ma flexibilité se reflète dans la diversité de mes projets, où j'ai abordé des aspects variés du développement web. Mon approche calme et attentive me permet de résoudre efficacement les problèmes, tandis que ma patience est un atout précieux lors de la manipulation de bases de données complexes.
+Je m'appelle Mathias Mouffron, je suis actuellement en 3ème année de BUT Informatique à Limoges. JE suis un développeur polyvalent avec des compétences aussi bien front-end que back-end. Ma flexibilité se reflète dans la diversité de mes projets, où j'ai abordé des aspects variés du développement web.
 
 ## Compétences
 
